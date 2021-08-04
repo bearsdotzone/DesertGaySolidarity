@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 9ee3b14e755cd1741a64a92ff6ad58d9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cactus: {fileID: 6777203666885190802, guid: 53320246fb873b8449c3cfa6fdeb36fc,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
