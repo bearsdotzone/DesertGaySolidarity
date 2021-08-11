@@ -23,7 +23,7 @@ public class screenshotScript : MonoBehaviour
 
         if (timerino > 15f && !screenShotted)
         {
-            string screenshotsFolder = "F:/screenshots/";
+            string screenshotsFolder = "C:/Users/bears/Desktop/screeny/";
 
             string screenshotName = "Screenshot_" + System.IO.Directory.GetFiles(screenshotsFolder).Length + ".png";
 
